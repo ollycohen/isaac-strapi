@@ -7,6 +7,8 @@
     "better-sqlite3": "7.4.6",
     "lodash.set": "^4.3.2",
     "mime-types": "^2.1.27",
+    "pg": "^8.8.0",
+    "pg-connection-string": "^2.5.0",
     "shopify-api-node": "^3.11.2"
   },
   "name": "backend",
