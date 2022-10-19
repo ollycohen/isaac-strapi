@@ -34,10 +34,6 @@
       "type": "uid",
       "targetField": "title"
     },
-    "forsale": {
-      "type": "boolean",
-      "required": true
-    },
     "category": {
       "type": "relation",
       "relation": "manyToOne",
@@ -51,9 +47,6 @@
       "allowedTypes": [
         "images"
       ]
-    },
-    "shopifyID": {
-      "type": "string"
     }
   }
 }
